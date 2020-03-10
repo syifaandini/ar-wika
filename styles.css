@@ -39,7 +39,6 @@ body {
 
 .boy{
     position: absolute;
-
     top:0%;
     left:0%;
     height:100%;
@@ -399,7 +398,7 @@ iframe {
 
   iframe {
     width: 350px;
-    height: auto;
+    height: 262.5px;
   }
 
   /* HIASAN VIDEO */
@@ -502,7 +501,7 @@ iframe {
 
   iframe {
     width: 265px;
-    height: auto;
+    height: 198.75px;
   }
 
   /* HIASAN VIDEO */
@@ -620,7 +619,7 @@ iframe {
 
   iframe {
     width: 350px;
-    height: auto;
+    height: 262.5px;
   }
 
   /* HIASAN VIDEO */
@@ -733,8 +732,8 @@ iframe {
   }
 
   iframe {
-    width: 300px;
-    height: auto;
+    width: 320px;
+    height: 225px;
   }
 
   /* HIASAN VIDEO */
@@ -850,8 +849,8 @@ iframe {
   }
 
   iframe {
-    width: 380px;
-    height: auto;
+    width: 372.59px;
+    height: 279.44px;
   }
 
   /* HIASAN VIDEO */
@@ -966,7 +965,7 @@ iframe {
 
   iframe {
     width: 350px;
-    height: auto;
+    height: 262.5px;
   }
 
   /* HIASAN VIDEO */
