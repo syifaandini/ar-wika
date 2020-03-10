@@ -403,96 +403,113 @@ video {
 @media screen and (max-width: 320px)and (min-width: 220px) and (orientation : portrait){
   /* FOTO */
   .identitas{
-    top: -11%;
-    height: auto;
+    padding-top: 10%;
+    top: 5%;
+    left: 0%;
+    position: absolute;
+    height: 25%;
+    width: 100%;
   }
   .lokasifoto{
+    left: 23%;
+    top: -195%;
     width: 90px;
     height: 90px;
-    border-radius: 50%;
+    position: absolute;
     overflow: hidden;
     display: flex;
-    align-items: center;
-    left: 30%;
-    top: 260%;
   }
-
+  .detail-foto{
+    padding-top: 5%;
+    padding-left: 10%;
+  }
   img.rounded{
-    object-fit: cover;
     height: 90px;
     width: 90px;
+    object-fit: cover;
   }
-   .icon-foto{
+  .icon-foto{
   width: 150%;
-  top: -25%;
-  left: -17%;
-}
+  top: -480.5%;
+  left: -24%;
+  position: absolute;
+  }
+
   /* NAMA DAN JABATAN */
-.logo-wika{
+  .logo-wika{
   position: absolute;
   width: 70%;
   height: auto;
-  top: 3000%;
-  right: 23%;
+  top: -4500%;
+  right: 35%;
   }
-  .lokasinama{
-    position: absolute;
-    top: 7000%;
-    right: 85%;
-  }
+
   .namaorang{
-    font-size: 135%;
+    font-size: 130%;
+    position: absolute;
+    left: 2%;
+    width: 93%;
+    bottom: -4000%;
   }
   .garisnama{
     position: absolute;
-    top: 10500%;
-    left: 15%;
-  }
-  .lokasijabatan{
-    position: absolute;
-    top: 12000%;
-    width: 100%;
-    right: -6%;
+    left: 2%;
+    top: 3500%;
   }
   .jabatan{
-    font-size: 80%;
+    font-size: 110%;
+    position: absolute;
+    left: 2%;
+    top: 4900%;
   }
 
-  /* HIASAN VIDEO */
+  /* VIDEO */
   .videoplayer1{
+/*     padding-top: 8%; */
+    top: 32%;
+    left: 8%;
     position: fixed;
-    top: 30.5%;
-    left: 8.5%;
   }
+
   video {
     width: 265px;
     height: auto;
   }
+
+  /* HIASAN VIDEO */
   .upperleft{
-    left: 8px;
-    top: 26%;
+    left: 1.5%;
+    position: absolute;
+    Top: 28%;
   }
+
   .upperright{
-    Top: 26.6%;
+    right: 1%;
+    position: absolute;
+    Top: 28%;
   }
+
   .lowerleft{
     left: 8%;
-    Top: 74%;
+    position: absolute;
+    Top: 75.5%;
   }
+
   .lowerright{
-    right: -4.4%;
-    Top: 70%;
+    right: -3.5%;
+    position: absolute;
+    Top: 71.3%;
   }
   .sidenavtop{
-    bottom: 17%;
+    bottom: 15%;
   }
   .strip2{
-    bottom: 19%;
+    bottom: 17.5%;
   }
   .strip,
   .sidenav2,
   .menu{
-    bottom: 3.5%;
+    bottom: 2.5%;
   }
   .sidenav{
     bottom: 5.5%;
