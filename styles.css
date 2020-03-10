@@ -25,6 +25,17 @@ body {
 .loader img {
     width: 100px;
 }
+@keyframes fadeOut {
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+.loader-hidden {
+    animation: fadeOut 1s;
+    animation-fill-mode: forwards;
+}
 
 .boy{
     position: absolute;
