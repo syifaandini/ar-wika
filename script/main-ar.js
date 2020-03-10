@@ -199,7 +199,7 @@ $(window).on('load', function() {
           // this.icon.play();
 
           if (this.el.object3D.visible == true) {
-            // document.getElementById("boy").style.display = "block";
+            document.getElementById("boy").style.display = "block";
 
 
             console.log("masuk 3D");
@@ -219,7 +219,7 @@ $(window).on('load', function() {
               //     this.prevRotation = this.el.object3D.rotation
 
           } else {
-              // document.getElementById("boy").style.display = "none";
+              document.getElementById("boy").style.display = "none";
 
               console.log("no");
               // this.logo.pause();
