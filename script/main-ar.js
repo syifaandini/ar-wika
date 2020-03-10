@@ -219,7 +219,7 @@ $(window).on('load', function() {
               //     this.prevRotation = this.el.object3D.rotation
 
           } else {
-              document.getElementById("boy").style.display = "none";
+              // document.getElementById("boy").style.display = "none";
 
               console.log("no");
               // this.logo.pause();
