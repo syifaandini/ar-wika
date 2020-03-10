@@ -1005,8 +1005,3 @@ iframe {
     bottom: 2.5%;
   }
 }
-/* Disable fullscreen video */
-video::-webkit-media-controls-fullscreen-button
-{
-        display: none !important;
-}
