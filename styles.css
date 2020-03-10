@@ -110,7 +110,7 @@ h3, h4{
   width: 100%;
 }
 
-video {
+iframe {
   margin-left: auto;
   margin-right: auto;
 }
@@ -397,7 +397,7 @@ video {
     position: fixed;
   }
 
-  video {
+  iframe {
     width: 350px;
     height: auto;
   }
@@ -500,7 +500,7 @@ video {
     position: fixed;
   }
 
-  video {
+  iframe {
     width: 265px;
     height: auto;
   }
@@ -618,7 +618,7 @@ video {
     position: fixed;
   }
 
-  video {
+  iframe {
     width: 350px;
     height: auto;
   }
@@ -732,7 +732,7 @@ video {
     position: fixed;
   }
 
-  video {
+  iframe {
     width: 300px;
     height: auto;
   }
@@ -849,7 +849,7 @@ video {
     position: fixed;
   }
 
-  video {
+  iframe {
     width: 380px;
     height: auto;
   }
@@ -964,7 +964,7 @@ video {
     position: fixed;
   }
 
-  video {
+  iframe {
     width: 350px;
     height: auto;
   }
