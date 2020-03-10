@@ -23,7 +23,7 @@ body {
 }
 
 .loader img {
-    width: 100px;
+    width: 500px;
 }
 @keyframes fadeOut {
     100% {
